@@ -1,0 +1,12 @@
+.enlisted-bot-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.bot-collection {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  overflow-x: scroll;
+  width: 100%;
+}
